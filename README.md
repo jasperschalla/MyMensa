@@ -5,7 +5,7 @@ This is a simple app for getting up-to-date with the mensa food plan at the thre
 - Mensa Institutsviertel
 - Mensa Littenweiler
 
-Since I do not have 99€ per year to spend on the availability of publishing Apps to the App Store for IOS, the apk-file for this app can only be downloaded for Android under the following link:
+Since I do not have 99€ per year to spend on the possibility of publishing Apps to the App Store for IOS, there is only a apk-file for this app that can be downloaded for Android under the following link:
 
 https://expo.dev/artifacts/eas/cq7g4heKrCrsqBG2hFnxfg.apk
 
